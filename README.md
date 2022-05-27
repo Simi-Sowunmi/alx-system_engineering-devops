@@ -1,1 +1,1 @@
-readme fle
+shell permissions and commands
